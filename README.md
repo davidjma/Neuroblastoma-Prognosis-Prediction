@@ -1,3 +1,3 @@
 ## **Neuroblastoma Prognosis Prediction**
 
-This github respiratory is a collection of scripts that predict neuroblastoma prognosis using DICOM format images of CT and PET scans. 
+This respiratory is a collection of scripts that aided me in predicting neuroblastoma prognosis using MSK-IMPACT DICOM format images of CT and PET scans. Data is kept confidential.
